@@ -1,6 +1,7 @@
-name: 插件功能汇总 # 这是你的插件的唯一识别名。
-desc: 汇总所有已安装插件的功能和命令。 # 插件简短描述
+name: astrbot_plugin_plugins_summary # 这是你的插件的唯一识别名。
+desc: 一款查询当前安装插件目录并以图片返回的插件 # 插件简短描述
 help: 支持查看插件列表、插件详情和所有命令汇总。 # 插件的帮助信息
 version: 1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: system # 作者
-repo: # 插件的仓库地址
+author: 飞翔的死猪 # 作者
+repo: https://github.com/1-20182/astrbot_plugin_plugins_summary/tree/main # 插件的仓库地址
+
